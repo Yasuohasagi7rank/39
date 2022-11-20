@@ -1,0 +1,13 @@
+C:\Users\Администратор\source\repos\11.45\bin\Debug\netcoreapp3.1\11.45.exe
+C:\Users\Администратор\source\repos\11.45\bin\Debug\netcoreapp3.1\11.45.deps.json
+C:\Users\Администратор\source\repos\11.45\bin\Debug\netcoreapp3.1\11.45.runtimeconfig.json
+C:\Users\Администратор\source\repos\11.45\bin\Debug\netcoreapp3.1\11.45.runtimeconfig.dev.json
+C:\Users\Администратор\source\repos\11.45\bin\Debug\netcoreapp3.1\11.45.dll
+C:\Users\Администратор\source\repos\11.45\bin\Debug\netcoreapp3.1\11.45.pdb
+C:\Users\Администратор\source\repos\11.45\obj\Debug\netcoreapp3.1\11.45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\11.45\obj\Debug\netcoreapp3.1\11.45.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\11.45\obj\Debug\netcoreapp3.1\11.45.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\11.45\obj\Debug\netcoreapp3.1\11.45.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\11.45\obj\Debug\netcoreapp3.1\11.45.dll
+C:\Users\Администратор\source\repos\11.45\obj\Debug\netcoreapp3.1\11.45.pdb
+C:\Users\Администратор\source\repos\11.45\obj\Debug\netcoreapp3.1\11.45.genruntimeconfig.cache
